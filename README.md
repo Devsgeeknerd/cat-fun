@@ -1,6 +1,19 @@
 <!-- Título -->
 # Base
 
+***Conteúdo da Categoria:***
+
+* [ ] [Lógica Para Programação Completo.](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcat-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
