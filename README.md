@@ -8,7 +8,7 @@
 * [ ] [Exercícios Práticos — Estruturas de Decisão.](https://github.com/Devsgeeknerd/) :construction:
 * [ ] [Exercícios Práticos — Estruturas de Repetição.](https://github.com/Devsgeeknerd/) :construction:
 * [ ] [Lógica Orientada a Objetos Completo.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [Aplicações & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/) :construction:
 * [ ] [](https://github.com/Devsgeeknerd/) :construction:
 * [ ] [](https://github.com/Devsgeeknerd/) :construction:
 * [ ] [](https://github.com/Devsgeeknerd/) :construction:
