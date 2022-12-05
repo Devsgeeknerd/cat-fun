@@ -4,8 +4,8 @@
 ***Conteúdo da Categoria:***
 
 * [ ] [Lógica Para Programação Completo.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [Exercícios Práticos — Operadores Matemáticos.](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [Exercícios Práticos — Estruturas de Decisão.](https://github.com/Devsgeeknerd/) :construction:
 * [ ] [](https://github.com/Devsgeeknerd/) :construction:
 * [ ] [](https://github.com/Devsgeeknerd/) :construction:
 * [ ] [](https://github.com/Devsgeeknerd/) :construction:
