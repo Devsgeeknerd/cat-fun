@@ -3,16 +3,16 @@
 
 ***Conteúdo da Categoria:***
 
-* [ ] [Lógica Para Programação Completo.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [Exercícios Práticos — Operadores Matemáticos.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [Exercícios Práticos — Estruturas de Decisão.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [Exercícios Práticos — Estruturas de Repetição.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [Lógica Orientada a Objetos Completo.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [Aplicações & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [Linux — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [Lógica Para Programação Completo.](https://github.com/Devsgeeknerd/cur-log-par-pro-com-bas) :construction:
+* [ ] [Exercícios Práticos — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-pra-ope-mat-bas) :construction:
+* [ ] [Exercícios Práticos — Estruturas de Decisão.](https://github.com/Devsgeeknerd/exe-pra-est-dec-bas) :construction:
+* [ ] [Exercícios Práticos — Estruturas de Repetição.](https://github.com/Devsgeeknerd/exe-pra-est-rep-bas) :construction:
+* [ ] [Lógica Orientada a Objetos Completo.](https://github.com/Devsgeeknerd/cur-log-ori-obj-com-bas) :construction:
+* [ ] [Aplicações & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/cur-apl-arq-fun-bas) :construction:
+* [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-win-fun-par-des-bas) :construction:
+* [ ] [Linux — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-lin-fun-par-des-bas) :construction:
 * [ ] [macOS — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/) :construction:
-* [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/) :construction:
+* [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-bas) :construction:
 
 <!-- Information -->
 ## Informações
