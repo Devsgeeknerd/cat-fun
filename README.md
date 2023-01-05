@@ -15,7 +15,7 @@
 * [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-bas) :construction:
 
 <!-- Information -->
-## Informações
+## &#8505; Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcat-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
