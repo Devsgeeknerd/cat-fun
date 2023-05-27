@@ -3,16 +3,18 @@
 
 ***Conteúdo da Categoria:***
 
-* [ ] [Lógica Para Programação Completo.](https://github.com/Devsgeeknerd/cur-log-par-pro-com-bas) &#128679;
-* [ ] [Exercícios Práticos — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-pra-ope-mat-bas) &#128679;
-* [ ] [Exercícios Práticos — Estruturas de Decisão.](https://github.com/Devsgeeknerd/exe-pra-est-dec-bas) &#128679;
-* [ ] [Exercícios Práticos — Estruturas de Repetição.](https://github.com/Devsgeeknerd/exe-pra-est-rep-bas) &#128679;
-* [ ] [Lógica Orientada a Objetos Completo.](https://github.com/Devsgeeknerd/cur-log-ori-obj-com-bas) &#128679;
-* [ ] [Aplicações & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/cur-apl-arq-fun-bas) &#128679;
-* [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-win-fun-par-des-bas) &#128679;
-* [ ] [Linux — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-lin-fun-par-des-bas) &#128679;
-* [ ] [macOS — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-mac-fun-par-des-bas) &#128679;
-* [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-bas) &#128679;
+* [ ] [Lógica Para Programação — Iniciando na Programação.](https://github.com/Devsgeeknerd/cur-log-par-pro-ini-pro-bas) &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
 
 <!-- Informações -->
 ## &#8505; Informações
