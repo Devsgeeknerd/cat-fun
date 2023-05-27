@@ -16,6 +16,8 @@
 * [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-win-fun-bas) &#128679;
 * [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-bas) &#128679;
 
+A construção de uma base sólida é essencial para a formação de um bom profissional de tecnologia.
+
 <!-- Informações -->
 ## &#8505; Informações
 
