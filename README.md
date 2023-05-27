@@ -5,7 +5,7 @@
 
 * [ ] [Lógica Para Programação — Iniciando na Programação.](https://github.com/Devsgeeknerd/cur-log-par-pro-ini-pro-bas) &#128679;
 * [ ] [Lógica Para Programação — Avançando na Programação.](https://github.com/Devsgeeknerd/cur-log-par-pro-ava-pro-bas) &#128679;
-* [ ] []() &#128679;
+* [ ] [Lógica Para Programação — Completo.](https://github.com/Devsgeeknerd/cur-log-par-pro-com-bas) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
