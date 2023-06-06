@@ -11,6 +11,7 @@
 * [ ] [Exercícios Práticos — Estruturas de Repetição.](https://github.com/Devsgeeknerd/exe-pra-est-rep-bas) &#128679;
 * [ ] [Exercícios Práticos — Vetores e Matrizes.](https://github.com/Devsgeeknerd/exe-pra-vet-mat-bas) &#128679;
 * [ ] [Lógica Orientada a Objetos — Primeiro Passos.](https://github.com/Devsgeeknerd/cur-log-ori-obj-pri-pass-bas) &#128679;
+* [ ] [Lógica Orientada a Objetos — Avançando na Orientação a Objetos.](https://github.com/Devsgeeknerd/cur-log-ori-obj-ava-ori-obj-bas) &#128679;
 * [ ] [Lógica Orientada a Objetos — Completo.](https://github.com/Devsgeeknerd/cur-log-ori-obj-com-bas) &#128679;
 * [x] [Aplicação & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/cur-apl-arq-fun-par-des-bas)
 * [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-win-fun-bas) &#128679;
