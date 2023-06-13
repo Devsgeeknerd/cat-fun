@@ -15,7 +15,7 @@
 * [ ] [Lógica Orientada a Objetos — Completo.](https://github.com/Devsgeeknerd/cur-log-ori-obj-com-bas) &#128679;
 * [x] [Aplicação & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/cur-apl-arq-fun-par-des-bas)
 * [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-win-fun-bas) &#128679;
-* [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-bas) &#128679;
+* [x] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-bas)
 
 A construção de uma base sólida é essencial para a formação de um bom profissional de tecnologia.
 
