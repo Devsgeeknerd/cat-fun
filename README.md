@@ -41,6 +41,10 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Java (orientação a objetos, classes, métodos).
 
 * **Paradigmas de Programação:** Diferentes estilos de programação e como usá-los.
+  * Programação procedural;
+  * Programação orientada a objetos;
+  * Programação funcional;
+  * Programação concorrente.
 
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
