@@ -23,6 +23,10 @@ Os Fundamentos formam a base do conhecimento em programação e são essenciais 
 Ao concluir esta categoria, tera uma compreensão solida em:
 
 * **Lógica Para Programação:** Estudo dos princípios básicos que orientam o funcionamento de algoritmos e programação.
+  * Introdução a algoritmos;
+  * Estruturas de controle (loops, condicionais);
+  * Estruturas de dados básicas (arrays, listas, pilhas, filas);
+  * Pseudocódigo.
 
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
