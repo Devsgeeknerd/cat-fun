@@ -71,8 +71,8 @@ Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cat-fun?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cat-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cat-fun?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cat-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cat-fun?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
 ![License](https://img.shields.io/github/license/Devsgeeknerd/cat-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
