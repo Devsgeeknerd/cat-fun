@@ -16,7 +16,7 @@
 * [ ] [Lógica Orientada a Objetos — Completo.](https://github.com/Devsgeeknerd/cur-log-ori-obj-com-fun)
 * [ ] [Aplicação & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/cur-apl-arq-fun-par-des-fun)
 * [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-win-fun-fun) &#128679;
-* [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-fun)
+* [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-fun) &#128679;
 
 Os Fundamentos formam a base do conhecimento em programação e são essenciais para avançar em qualquer area de desenvolvimentos de software.
 
