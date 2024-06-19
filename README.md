@@ -67,7 +67,7 @@ Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cat-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cat-fun?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cat-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
