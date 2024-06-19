@@ -75,4 +75,4 @@ Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cat-fun?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/cat-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cat-fun?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
