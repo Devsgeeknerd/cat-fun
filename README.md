@@ -28,6 +28,8 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Estruturas de dados básicas (arrays, listas, pilhas, filas);
   * Pseudocódigo.
 
+* **Algoritmos e Estruturas de Dados:** Estudo detalhado de algoritmos, suas complexidade e estruturas de dados eficientes.
+
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
 <!-- Informações -->
