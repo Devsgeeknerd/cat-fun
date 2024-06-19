@@ -46,6 +46,8 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Programação funcional;
   * Programação concorrente.
 
+* **Conceitos de Computação:** Compreensão dos conceitos fundamentais de como os computadores funcionam.
+
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
 <!-- Informações -->
