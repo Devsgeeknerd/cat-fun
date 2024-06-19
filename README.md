@@ -7,7 +7,7 @@
 * [ ] [Lógica Para Programação — Operadores Matemáticos, Relacionais & Lógicos.](https://github.com/Devsgeeknerd/cur-log-par-pro-ope-mat-rel-log-fun) &#128679;
 * [ ] [Lógica Para Programação — Avançando na Programação](https://github.com/Devsgeeknerd/cur-log-par-pro-ava-pro-fun) &#128679;
 * [ ] [Lógica Para Programação — Completo.](https://github.com/Devsgeeknerd/cur-log-par-pro-com-fun) &#128679;
-* [ ] [Exercícios Práticos — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-pra-ope-mat-fun)
+* [ ] [Exercícios Práticos — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-pra-ope-mat-fun) &#128679;
 * [ ] [Exercícios Práticos — Estruturas de Decisão.](https://github.com/Devsgeeknerd/exe-pra-est-dec-fun) &#128679;
 * [ ] [Exercícios Práticos — Estruturas de Repetição.](https://github.com/Devsgeeknerd/exe-pra-est-rep-fun) &#128679;
 * [ ] [Exercícios Práticos — Vetores e Matrizes.](https://github.com/Devsgeeknerd/exe-pra-vet-mat-fun) &#128679;
