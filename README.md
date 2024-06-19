@@ -18,7 +18,13 @@
 * [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-win-fun-fun) &#128679;
 * [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-fun)
 
-A construção de uma base sólida é essencial para a formação de um bom profissional de tecnologia.
+Os Fundamentos formam a base do conhecimento em programação e são essenciais para avançar em qualquer area de desenvolvimentos de software.
+
+Ao concluir esta categoria, tera uma compreensão solida em:
+
+* **Lógica Para Programação:** Estudo dos princípios básicos que orientam o funcionamento de algoritmos e programação.
+
+Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
 <!-- Informações -->
 ## &#8505; Informações
