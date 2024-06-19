@@ -53,6 +53,10 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Conceitos de compiladores e interpretadores.
 
 * **Ferramentas de Desenvolvimento:** Familiarização com ferramentas essenciais para o desenvolvimento de software.
+  * Controle de versão;
+  * Editores de texto e IDEs;
+  * Linha de comando e scripts básicos;
+  * Debugging e testes.
 
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
