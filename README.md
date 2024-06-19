@@ -9,7 +9,7 @@
 * [ ] [Lógica Para Programação — Completo.](https://github.com/Devsgeeknerd/cur-log-par-pro-com-fun) &#128679;
 * [ ] [Exercícios Práticos — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-pra-ope-mat-fun)
 * [ ] [Exercícios Práticos — Estruturas de Decisão.](https://github.com/Devsgeeknerd/exe-pra-est-dec-fun)
-* [ ] [Exercícios Práticos — Estruturas de Repetição.](https://github.com/Devsgeeknerd/exe-pra-est-rep-bas)
+* [ ] [Exercícios Práticos — Estruturas de Repetição.](https://github.com/Devsgeeknerd/exe-pra-est-rep-fun)
 * [ ] [Exercícios Práticos — Vetores e Matrizes.](https://github.com/Devsgeeknerd/exe-pra-vet-mat-bas)
 * [ ] [Lógica Orientada a Objetos — Primeiro Passos.](https://github.com/Devsgeeknerd/cur-log-ori-obj-pri-pass-bas) &#128679;
 * [ ] [Lógica Orientada a Objetos — Avançando na Orientação a Objetos.](https://github.com/Devsgeeknerd/cur-log-ori-obj-ava-ori-obj-bas) &#128679;
