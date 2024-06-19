@@ -29,6 +29,10 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Pseudocódigo.
 
 * **Algoritmos e Estruturas de Dados:** Estudo detalhado de algoritmos, suas complexidade e estruturas de dados eficientes.
+  * Análise de complexidade;
+  * Estruturas de dados (listas, pilhas, filas, árvores, grafos);
+  * Algoritmos de ordenação;
+  * Algoritmos de grafos.
 
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
