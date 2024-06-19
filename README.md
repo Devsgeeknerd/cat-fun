@@ -52,6 +52,8 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Redes de computadores;
   * Conceitos de compiladores e interpretadores.
 
+* **Ferramentas de Desenvolvimento:** Familiarização com ferramentas essenciais para o desenvolvimento de software.
+
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
 <!-- Informações -->
