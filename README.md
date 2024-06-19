@@ -14,7 +14,7 @@
 * [ ] [Lógica Orientada a Objetos — Primeiro Passos.](https://github.com/Devsgeeknerd/cur-log-ori-obj-pri-pass-fun) &#128679;
 * [ ] [Lógica Orientada a Objetos — Avançando na Orientação a Objetos.](https://github.com/Devsgeeknerd/cur-log-ori-obj-ava-ori-obj-fun) &#128679;
 * [ ] [Lógica Orientada a Objetos — Completo.](https://github.com/Devsgeeknerd/cur-log-ori-obj-com-fun)
-* [ ] [Aplicação & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/cur-apl-arq-fun-par-des-fun)
+* [ ] [Aplicação & Arquiteturas — Fundamentos.](https://github.com/Devsgeeknerd/cur-apl-arq-fun-par-des-fun) &#128679;
 * [ ] [Windows — Fundamentos Para Desenvolvedores.](https://github.com/Devsgeeknerd/cur-win-fun-fun) &#128679;
 * [ ] [Git — Fundamentos.](https://github.com/Devsgeeknerd/cur-git-fun-fun) &#128679;
 
