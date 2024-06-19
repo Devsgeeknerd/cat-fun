@@ -4,7 +4,7 @@
 ***Conteúdo da Categoria:***
 
 * [ ] [Lógica Para Programação — Iniciando na Programação.](https://github.com/Devsgeeknerd/cur-log-par-pro-ini-pro-fun) &#128679;
-* [ ] [Lógica Para Programação — Operadores Matemáticos, Relacionais & Lógicos.](https://github.com/Devsgeeknerd/cur-log-par-pro-ope-mat-rel-log-bas) &#128679;
+* [ ] [Lógica Para Programação — Operadores Matemáticos, Relacionais & Lógicos.](https://github.com/Devsgeeknerd/cur-log-par-pro-ope-mat-rel-log-fun) &#128679;
 * [ ] [Lógica Para Programação — Avançando na Programação](https://github.com/Devsgeeknerd/cur-log-par-pro-ava-pro-bas) &#128679;
 * [ ] [Lógica Para Programação — Completo.](https://github.com/Devsgeeknerd/cur-log-par-pro-com-bas) &#128679;
 * [ ] [Exercícios Práticos — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-pra-ope-mat-bas)
