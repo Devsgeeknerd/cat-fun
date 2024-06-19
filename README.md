@@ -35,6 +35,12 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Algoritmos de grafos.
 
 * **Linguagem de Programação:** Aprender uma ou mais linguagens de programação populares e suas sintaxes.
+  * Python (introdução, estruturas de controle, funções, módulos);
+  * JavaScript (sintaxe, manipulação do DOM, funções);
+  * C (sintaxe, ponteiros, alocação de memória);
+  * Java (orientação a objetos, classes, métodos).
+
+* **Paradigmas de Programação:** Diferentes estilos de programação e como usá-los.
 
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
