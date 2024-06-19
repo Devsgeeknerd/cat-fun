@@ -34,6 +34,8 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Algoritmos de ordenação;
   * Algoritmos de grafos.
 
+* **Linguagem de Programação:** Aprender uma ou mais linguagens de programação populares e suas sintaxes.
+
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
 <!-- Informações -->
