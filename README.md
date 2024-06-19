@@ -47,6 +47,10 @@ Ao concluir esta categoria, tera uma compreensão solida em:
   * Programação concorrente.
 
 * **Conceitos de Computação:** Compreensão dos conceitos fundamentais de como os computadores funcionam.
+  * Arquitetura de computadores;
+  * Sistemas operacionais básicos;
+  * Redes de computadores;
+  * Conceitos de compiladores e interpretadores.
 
 Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 
