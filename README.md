@@ -66,10 +66,10 @@ Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 > * Prática Constante:
 >   * A programação é uma habilidade prática.
 >   * Tente codificar todos os dias, mesmo que por um curto período de tempo.
-
+>
 > * Projetos Práticos:
 >   * Aplique os conhecimentos em pequenos projetos para reforçar o aprendizado.
-
+>
 > * Comunidade e Networking:
 >   * Participe de comunidades online, fóruns e grupos de estudo para trocar conhecimentos e resolver dúvidas.
 
