@@ -64,7 +64,7 @@ Além de estar familiarizado com ferramentas e praticas de desenvolvimento.
 > **Dicas de Estudo:**
 >
 > * Prática Constante:
->   * A programação é uma habilidade prática.
+>   * A programação é uma habilidade prática;
 >   * Tente codificar todos os dias, mesmo que por um curto período de tempo.
 >
 > * Projetos Práticos:
